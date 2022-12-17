@@ -6,5 +6,8 @@ rust相对于C++的优势主要在内存安全和包管理两方面，但是，�
 
 ## Day 01
 
-[Day 01 入门指南](day01/README.md)
+[入门指南](day01/README.md)
 
+## Day 02
+
+[猜数字游戏](day02/README.md)
